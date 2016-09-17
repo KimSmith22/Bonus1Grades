@@ -1,19 +1,11 @@
 import java.util.Scanner;
 
 /**
- * 
- */
-
-/**
  * @author Kimberli
  *
  */
 public class Methods {
 
-	/**
-	 * @param grade 
-	 * @param args
-	 */
 
 	public static void getGrade(int num, String choice, String grade ) {
 		Scanner k = new Scanner(System.in);

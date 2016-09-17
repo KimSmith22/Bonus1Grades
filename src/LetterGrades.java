@@ -28,8 +28,6 @@ public class LetterGrades {
 		Scanner k = new Scanner(System.in);
 	
 		Methods.getGrade(num, choice, grade);
-	
-
 		
 	}//psvm
 
